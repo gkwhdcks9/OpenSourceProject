@@ -1,7 +1,7 @@
-# 📌 Low-Blocks
+# 📌 LawBlocks
 
 > **프로젝트 개요**  
-> **Low-Blocks** 는 법률에 관한 문제를 해결하고, 접근성을 높이기 위한 프로젝트입니다. 
+> **LawBlocks** 는 법률에 관한 문제를 해결하고, 접근성을 높이기 위한 프로젝트입니다. 
 
 ---
 
@@ -17,7 +17,7 @@
 | 이름          | 역할       | GitHub                                          |
 |---------------|------------|-------------------------------------------------|
 | 하종찬   | 팀장     | [GitHub Profile](https://github.com/gkwhdcks9) |
-| 김원호   | 게시판 씬 개발     | [GitHub Profile](https://github.com/wonotter) |
+| 김원호   | 로그인 & 게시판 씬 개발     | [GitHub Profile](https://github.com/wonotter) |
 | 박선화   | LLM & 통신 & O/X씬 개발 | [GitHub Profile](https://github.com/paksh0725) |
 | 최승민   | 전체 통합     | [GitHub Profile](https://github.com/c3110y3110) |
 
@@ -25,8 +25,8 @@
 
 ## 📚 기술 스택 (예시)
 - **프론트엔드:** (사용한 기술 예: React, Vue, HTML/CSS)
-- **백엔드:** (사용한 기술 예: Node.js, Django, Spring)
-- **데이터베이스:** (사용한 기술 예: MySQL, MongoDB, PostgreSQL)
+- **백엔드:** (사용한 기술 : SpringBoot)
+- **데이터베이스:** (사용한 기술 : MySQL)
 - **기타:** (CI/CD 도구, 클라우드 서비스 등)
 
 ---
