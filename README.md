@@ -21,7 +21,7 @@
 
 | 이름          | 역할       | GitHub                                          |
 |---------------|------------|-------------------------------------------------|
-| 하종찬   | 팀장     | [GitHub Profile](https://github.com/gkwhdcks9) |
+| 하종찬   | 팀장 & AI 씬 개발    | [GitHub Profile](https://github.com/gkwhdcks9) |
 | 김원호   | 로그인 & 게시판 씬 개발     | [GitHub Profile](https://github.com/wonotter) |
 | 박선화   | LLM & 통신 & O/X씬 개발 | [GitHub Profile](https://github.com/paksh0725) |
 | 최승민   | 전체 통합 및 메타버스 환경 구현     | [GitHub Profile](https://github.com/c3110y3110) |
