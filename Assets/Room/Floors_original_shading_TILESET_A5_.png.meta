@@ -1,0 +1,6601 @@
+fileFormatVersion: 2
+guid: a4a934dae447230478805d92b8680333
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 95
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db737bc57f313240af6d7e712f25d22
+      internalID: -1166886760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 625
+        width: 97
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afb9823b093e1848bed509db4bdd942
+      internalID: 1209438936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 626
+        width: 95
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7e87f74bb088248815546ee5906390
+      internalID: -1020287399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 480
+        width: 98
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c5a5437b6f2904999c4c5a72461c1c
+      internalID: -566632835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 336
+        width: 97
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56779b441c9aa643b20f8c28290f1a0
+      internalID: 1619693338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 192
+        width: 97
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd78856ff80b294b86bb5a24de5d6f6
+      internalID: 595057070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b89d72dea9dd3439fbdf05ecc7de6e
+      internalID: 260755956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b7ecb4e5ab0594da08a1350eff2570
+      internalID: 1292743167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0212ad6dffeb2444979fd335c09a837
+      internalID: 621276239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92af4b4159cffa247b68435d6cba91df
+      internalID: -1230908147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13eeac620a8c2d48943002eec0fb7b4
+      internalID: -1682548954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e490bdd4a489214aa643ffb7c5d7cbc
+      internalID: 252006306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9f2c0c63cef845afe62a78d24605f
+      internalID: 699204340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9f8026fa652f74c9d35805d66ebc84
+      internalID: 2123594570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14ac7a33958a0447a83c1acdc3d52bb
+      internalID: 1638492531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7913618cc6d4b42aadb34ec819de47
+      internalID: 215467166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107718f536c0f0b4ebf54d01a9cd2c0c
+      internalID: 688195090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fa882bb356a0946842ac0157940493
+      internalID: 1129656657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491dabd3abc1c3d45b95f71a719d3c76
+      internalID: 1925238752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92da4fd7fcee1b4bb758acbb580bdc5
+      internalID: -1954735031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14946d7ce69713a46b646ede05938056
+      internalID: -218810259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66df893fc390454bbaee447b4569fed
+      internalID: 1151728385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49b0f704fe34ce4f9332caa1a57a792
+      internalID: -249534580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985ae37611b9c104b89cb30ab24ce769
+      internalID: -418444616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d47c5b80256e5342b466b44e7ffc7bf
+      internalID: 1430607036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a6776e3d21efb4c9188c4c7ef3d91f
+      internalID: -1295914911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8e284654f21ba47823b73cd096706e
+      internalID: 523709077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8a27f3b08fbb941a3b8a66d8bcb154
+      internalID: -1648203355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157d78d271da48845a2f6024680fa4f7
+      internalID: 565023613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d087cc1da07834f8ca8d8455c62b92
+      internalID: -1765955049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba8fb37d612dbe46aac83b636631829
+      internalID: -593544044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2d163c23a12344ba76d7fcbcc7f077
+      internalID: 935246467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94e8c36907984f40842e86e4574f40e
+      internalID: 433436487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bbe56c03ce5d8429ebf9c2b3e74c61
+      internalID: -1686059456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__34
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cfbd7fa63000f43bfd7dcbd2b518ba
+      internalID: 208501430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742c1a2da5837bd4cb2bfe8c646ef729
+      internalID: -721028229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__36
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3c501771f978041b362b4c4fb698a4
+      internalID: 1879155880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79538628f79ce5343a3f2c0877d7ad1f
+      internalID: -1161411508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d2976e31eff84c96bc47f507d0c48
+      internalID: 1918897095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4679404661688624abe4d8e19682a957
+      internalID: -578090679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecc99c19791d544ea5c1b4828aed2f4
+      internalID: -490905351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef2ced296b7ea54a8460365d9767e1f
+      internalID: -1178909384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da53544879235d74f868c618458dbfb2
+      internalID: -1785141023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95f206117f858c428d4dba0bd48619c
+      internalID: 1402701540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b99757f09d15de4abdf51d57f0ab6e0
+      internalID: 1630273046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__45
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059bcc816dc126146afb0b1b9a9127b9
+      internalID: 312246817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__46
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ca6aaf6c0ee5b4a8d4771540145dff
+      internalID: -1200214742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6144edc155a03468690f365c8f26d0
+      internalID: -832045602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__48
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5613af585b844409a7a6e1c8dd8c6f
+      internalID: 1552172829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8df5986afac9d43a0db92cc04ad8bd
+      internalID: 1570504028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__50
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bff30e6bc21d48449f1e5c2b2689a6a
+      internalID: -223117430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78026517a0dbc409a3bb1b1800934b
+      internalID: 1827082401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__52
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0e9e20e8466e54fb8b9ab1eda9e13f
+      internalID: -1404775157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__53
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7e913b531cce34f9cc7e880564d000
+      internalID: -1616322724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__54
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a68556b55e244581e9c396b73c700
+      internalID: 1865210005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68668725c664ab642a9f3e93d3681ff2
+      internalID: 1540297861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__56
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b8537075d143c488fb98be02109e5c
+      internalID: 1505454318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a9504b08d9a7c43bbace0c7be7e5bc
+      internalID: 1108175706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__58
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322206262d2aea646b85ba67ef5980e6
+      internalID: 1065329157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67cc7e50eec7fc49ad752a13a802b17
+      internalID: 459640277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__60
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32e76e4324fba94e97dda4c60f3ba65
+      internalID: 548996831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12e2ca63087c55438e2a9df2f55d5b7
+      internalID: -2071451323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebaaf1fd22f32347872c32a42072d1d
+      internalID: 2145972065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__63
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1f81c9aa2947044937c14754dd427d
+      internalID: -235524453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__64
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c6a2eced42f8444a71de5348a20815
+      internalID: 1207969118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a621a8a845f4838419efe703d6a48056
+      internalID: 1229276302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__66
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fa0894c1170fb4cb35ea64d5103700
+      internalID: 1276696113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__67
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01655ec0f94511348bd2d9f3ecd94b19
+      internalID: -1894466127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__68
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd89d57a4421754587f44b237fdd00e
+      internalID: -1472008321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e79391794d07d4e886c9c66216a386
+      internalID: 1668470543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd7fe50a90c5c4f9d311f47f661f55
+      internalID: 41127999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5716fb4d1c724cf4b820fc29106608af
+      internalID: 1543803838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b992f7c6d8c174e95b5e07f5a16259
+      internalID: -1484475412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601c2d2b565f9e947a3e55e2c9b2dc07
+      internalID: -908343820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__74
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b2572f491dd61419e3262af7dbb681
+      internalID: 1542351234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__75
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755c9e0f7c122c14cab59d815409d136
+      internalID: 785982485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__76
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81326e1f8df5b644a99ef2a07b91134
+      internalID: 1853016253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e066d45c4262574b813617590e7769d
+      internalID: -704299779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__78
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4659eed202804f459e37b6afd423650
+      internalID: -584691949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__79
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bdffa11fa9eb34b8633f7f4e00d119
+      internalID: -1116756595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__80
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d5e225ce04cb48b2fe5eeece655f0
+      internalID: 1923980400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__81
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24ea981f0433014fa8cc741a63e1bb9
+      internalID: 219233991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__82
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ab8d5dc52bd9e42884b4ac6ef99b0c
+      internalID: -1686314226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__83
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac2e4a2198370f499443895b63dbbc4
+      internalID: -1330267309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__84
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2418a51b920104c920b3b76a6b8701
+      internalID: 1605682117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__85
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2d8724c547b1242aa089b8c34c524c
+      internalID: -1350681355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__86
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d75d55d18cfd8498d14bc923bdb08d
+      internalID: -661204177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b421305710dbd084a9506df20c648369
+      internalID: -393896004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__88
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03df972a1e88bca45b1f91ba621e42d9
+      internalID: -609687954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__89
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc7b4408f5972d46b82573f4288cc50
+      internalID: 1648933214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__90
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc8ba0261f237a42a8a39638a70dd8b
+      internalID: 1323558789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__91
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41029f6d6e940c46a4e4223c4ec35e5
+      internalID: 1923164109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__92
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382671d6309162a46965a16f21164c32
+      internalID: 1737160264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__93
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f15f32df15bbbd49b666560048d9467
+      internalID: -580220771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__94
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977da65d7ca31a5468d1df73c25bec05
+      internalID: -757206176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__95
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee71477b45bd384aad013ccefe76633
+      internalID: -1004962560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__96
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5583c3f99a0e3f841a5ef821d9826830
+      internalID: -1452350856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__97
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df4012bb6de7ba43a52c1b6439f1a25
+      internalID: 613341428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__98
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370648d1da92910419946604c2dfe0ca
+      internalID: 939718763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__99
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246715c774096c847aab38b78f2ca44c
+      internalID: 699822398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__100
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3807f9a742b9bb4f9de6792369016d0
+      internalID: -1392779912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__101
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406b45d6b1c0a7c4cbe8c26c500defc8
+      internalID: 1578641750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__102
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e07559c35c15334aa703dded0496e06
+      internalID: 1736632852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd1af23bd0dbc445a74e21d6dfb6cbd
+      internalID: -1778752730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__104
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768f278bf1b1467409ee0c2e9dfae259
+      internalID: -331391955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__105
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aae0d4e2a49df4bb40459a2456eb4a
+      internalID: -1409633780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__106
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca88f125df3e3a94a80f70d895f4a15a
+      internalID: -341695422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__107
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef59f70a61f8f44a5c83912427cd42
+      internalID: -224367104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__108
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bdd5503186ea34b8a41cd7b6de37db
+      internalID: 1939117421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__109
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dd5a7bf6356d349a753fa69fcce064
+      internalID: 673743948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__110
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa73f933a379b44cb1a5cbf21b5a5f7
+      internalID: 504646624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__111
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d32c6e407fbea49bf81356ce38337b
+      internalID: 96324310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__112
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dda31c3ee53ef64d8f04aa5568bfbbe
+      internalID: 1425709116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__113
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a502f4c72d131ea46896250f6b821282
+      internalID: -547522632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__114
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dedc1ab368e4a47a220a381b481196
+      internalID: -598684012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__115
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f354082c25d04dbc58a95bf247e88
+      internalID: 2117920958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__116
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fec72d6ae3e824dbd73e452b7978df
+      internalID: -1856799393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__117
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d06d487f38013d4fa1a3c52d78397e7
+      internalID: -1339419930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__118
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a912d28592814e44898906b8358158c9
+      internalID: 1455570600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f8d3eeb03b8fb429379758f9151f3d
+      internalID: 1516233806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__120
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999d5656e42041045aa534a6f576e5fd
+      internalID: 209125885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__121
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db2f4dcd3101cb4c87bbab02584acf5
+      internalID: -854256542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__122
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91139054d27e7442ade7ae1a644509c
+      internalID: 1260738703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa74a7d8c6cc0c4aa22e10f606cd225
+      internalID: 313356213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__124
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d64ffa8f172f42963ce4280bf48a0
+      internalID: 954715117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__125
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac8bcf674c17be48b4860254c9dd126
+      internalID: -429837299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__126
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9537f2e9d0fbdd74691aef9098dda10d
+      internalID: -2108408465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__127
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9210d6abe915a94eae4d992d79ec2c2
+      internalID: 874295167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__128
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f255b91f6b4df474685e23bee2a1758a
+      internalID: 749461957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__129
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718fea4841677724ab48f49ffd92dfa1
+      internalID: -1781281622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__130
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5592144ce2b1d45a5405c4b2a39e4c
+      internalID: 479456775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__131
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86b11b1480a7ca47b128e91d2ffe1d2
+      internalID: -778134904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__132
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c512b30d98554947a30a1939509945b
+      internalID: -1112070086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__133
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1015da35ecd11f041b11b040ee2e5399
+      internalID: 1271265968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__134
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e812fe93d123ce49baa90b7eb700248
+      internalID: -82719230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab8f7a2363d8ac4bbed809d38d5ffad
+      internalID: 767335973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__136
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba41dfda115e4849a0957be878fdca9
+      internalID: 781662941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__137
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7676d3960bde7842986405253f5aa95
+      internalID: -210126337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__138
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df08b7592f7397439f15aff6d802418
+      internalID: -1179361949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__139
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4197384ccd51f4241afe5a15682be56d
+      internalID: 1478659203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__140
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e585ae63961afc1468fe7d80507506f5
+      internalID: 9514020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__141
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4b6000a9303e64595c65d33a7fb92d
+      internalID: -616428705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__142
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71670c432890dd4895ad9d9da5bff4a
+      internalID: 1275038508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__143
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861db4edda2c7994c8f889d86bdd0eaf
+      internalID: -1730448897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__144
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c76a897a3fcb0a4990006e0d59120fe
+      internalID: -1690941571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__145
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4215d238d29c54795aadc37175256f
+      internalID: -1548254078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__146
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb66b54f64866fc499d7a803f4157c9d
+      internalID: -599653117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__147
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d5579e874f14e48b43cee3b06018bd
+      internalID: -1819471349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__148
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd632b1e707a32c43ada84b768f43ba5
+      internalID: -1138978215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__149
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f784454f3c0c346bd4a192b241ecf8
+      internalID: -1492916484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__150
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfacfa694be10f045ba60277c1ce51a2
+      internalID: 1475644944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf3b28de4c411445bd19716be6e3046
+      internalID: 328820433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__152
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eec827c48b666479538b55c8b3ccf2
+      internalID: -1777137144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__153
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ca9440835dfba4fbde0dea1966ff92
+      internalID: -760341734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__154
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8199aa1875943448676e090cf492bb
+      internalID: 1362732002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__155
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920c3db62b2ede459741a5a7e511189
+      internalID: 629723699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__156
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a555a572583418c4da2a6c7cec7fff40
+      internalID: -559842688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__157
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474c89be3d000044ca8a226609a4f8e8
+      internalID: -312888149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__158
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49a9440ac8ea03448ae0c244956922a
+      internalID: -996136171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__159
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c578585d24313274090afc60c76f2409
+      internalID: -1099562830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__160
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfad153ec126014593b05986d1cbce8
+      internalID: -1682069268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__161
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92258c917e4fac44eb8f3353fefe061d
+      internalID: 1155153675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__162
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461be65c8af9c2142b0f1e8e46831a23
+      internalID: -628642238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__163
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c359f19e2acd549ba1ef8b896184fc
+      internalID: 1197562646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__164
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1224b43b9419684c81fac6759a4200c
+      internalID: -1866609557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__165
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ac27174929c8442a6453e0f90c7e5f
+      internalID: -604814562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__166
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ca3691e70488f44b82b3cc1e3d55e0
+      internalID: -856914407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__167
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bca644e7443044eb01b90e98d137e0
+      internalID: 2110670296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__168
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52f26e5ecd8cc43a8c6de4860fadb0
+      internalID: 1040278986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__169
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434782524b7b6fc43875cc040dec2364
+      internalID: 22808167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__170
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6c8d44b21479e4897bd7a3cf1ab7ef
+      internalID: 1718627822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__171
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64abd19c4318870448c2885b64150147
+      internalID: 806977848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__172
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99e67fadc5dbd2428a9155b53cf895c
+      internalID: -731180035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__173
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bcc8c5c17e48e44b55a7abf99dcbe5
+      internalID: 453950390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__174
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e2050bdf69af44cb7f8ed0b4aa328c
+      internalID: 626368352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__175
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda55f845a39ff84b8188a4b2112b938
+      internalID: 1440459790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__176
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf3d9bba0f5ccd4888dce6518827d96
+      internalID: 1200209361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__177
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9799a07540fb848acd4fcda602f4fd
+      internalID: 1239574896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__178
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a487ebf93e104b48b0dca796c357eba
+      internalID: 236267378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__179
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c51d53d05dcf458ec6b9163812878
+      internalID: 69217526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__180
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f422ff4d9a1b6446b62b823d7321e44
+      internalID: 2135407459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__181
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b5393f7300fc0479a1c4c4755da866
+      internalID: 2006701698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__182
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed5c3d58b32a424ea9231f9fb56b6a6
+      internalID: -1987911111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__183
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f66c9a4c49d07c41b6ae8973b186395
+      internalID: -218016170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__184
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe5489abea71ab40974931b86d40c9d
+      internalID: -725949352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__185
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a499eeb72e2e74496a332ebcb8636f
+      internalID: -1866772129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__186
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3240002b43f8856498865fb4025745df
+      internalID: -686087578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__187
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62094434167c1047a1b851c75502228
+      internalID: -1146462770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__188
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b594ef7085f7dbf468a5cb4ed3a0851d
+      internalID: 1410246212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__189
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3956b29b4263e4d906d2e6715c45c7
+      internalID: 1997880327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__190
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e7d2e9983a9cb409d5da8548cf74f5
+      internalID: -250266654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__191
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486c0059ab77dd459aaafc96c501999
+      internalID: -211104774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__192
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151bfc3df9514fd4abf1fc4ff438d5c3
+      internalID: 1647468143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__193
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749846ac7d8050d4fbbf2d3ea6c796e5
+      internalID: 557321325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__194
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53c45ef2346f7648bc0efead72f30f9
+      internalID: 1239268790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__195
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2967578b0b40f0e46841cd8e4c9756f0
+      internalID: 459298368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__196
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2896c9e0f591cf348a9f47cf9b2859a3
+      internalID: -327470548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__197
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962ce08c56d4b3a43baef542f75e3115
+      internalID: -2052372584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__198
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a7723cb73e81a419387db87416997d
+      internalID: 1776631885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__199
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3367ac3578cc7dd458309b78cf9ee927
+      internalID: -1058011987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__200
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8825b179bb474b74284a3d78b967e192
+      internalID: 1618270378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__201
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07621af8ea1e36e4fbb6441b91d34bab
+      internalID: -1177724292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__202
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530455a77f3516547adcc74edf303779
+      internalID: 1828089064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__203
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7b21bc76c833a43b05b39a8e9922fe
+      internalID: -893373498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__204
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cc85d93d4c5954cac7e46231ff98bb
+      internalID: 1393086886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__205
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c50f7f747217ac46a99678b88e92eb5
+      internalID: 365633894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__206
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0eaa200c4379a4b91342fd8463725b
+      internalID: -322079905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__207
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae966ee4f91a1d844b5abca4cc5bf82d
+      internalID: -1853090107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__208
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8e1c6736f59784f9359a8b35c60af4
+      internalID: -437247495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__209
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c4ad64b571f924bbc8793062ead7b3
+      internalID: -1222580255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__210
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b95a9fbc5422dc408dffe27ec4b8cc8
+      internalID: 1331009788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__211
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeb3ff49c0918646b1c077ea851001a
+      internalID: 1696996184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__212
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda30ee4319cee345a1d8c9e87b6ddd3
+      internalID: -471983716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__213
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef027385d2a4d8b40b611568b4a7439e
+      internalID: -1764076104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__214
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbff80f5905993b4d85dd77e0c0688ba
+      internalID: 1521494807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__215
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c5d8c78322b1a4a95e83730f8e05c7
+      internalID: 2102057006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__216
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369daffec345538459631332e95a1090
+      internalID: -1521790724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__217
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76537a9b8d42a2143b698a5757a0762d
+      internalID: -1988610607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__218
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c60b92760f2ca488a18ccceb258be3
+      internalID: 889996892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__219
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc58cabb640037145bd3e69abbf6032c
+      internalID: 818584677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__220
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee382e8454a6dd4c9ee581041d66afe
+      internalID: 1275777693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__221
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c04f21dbf7ddd347a3eb305afe60d5c
+      internalID: -1359564892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__222
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b8a024add92584a9f9812fc783fbb8
+      internalID: -579530523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__223
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4706fab8fdacd0e4c80490700eee7328
+      internalID: 1036711479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__224
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f34b04938237b409deb72e1db5f8e2
+      internalID: 2119819640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__225
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ab04b74c5ecd4cbe59db61f19b675
+      internalID: 177213599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__226
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c97951df49c3bc449fcd22858669244
+      internalID: -164920939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__227
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368f50642ab91fe40b8f09c015bc41f4
+      internalID: 267993164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__228
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433a4ef300e061c4bb3d0798a4a6e571
+      internalID: -583390999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__229
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa3b26dabb5db84492dbc15179502a8
+      internalID: -536810770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__230
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a90822c6af0bf40a3552ba0c292d30
+      internalID: 1187851363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__231
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d216943b7a56d419aa6ff370472499
+      internalID: 1292941331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__232
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d56f2add87412346a94e4e00c8f995d
+      internalID: 1577957058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__233
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e79ee7d34106045a0eaee19808cc1b
+      internalID: 926046865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__234
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889af16244d4db947925689356e23533
+      internalID: 1422853834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__235
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fb1ae563fea6f4e9d712c732920f61
+      internalID: 1147373134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__236
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9451296837f7f914a8941365c593a2f1
+      internalID: -1640522904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__237
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c9a518f30db7a4f8326617540179df
+      internalID: -432918977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__238
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5fd3f7b3b29564980e3f76f747fd0a
+      internalID: -1371607777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__239
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e8966455900645a2348775e2b70fb
+      internalID: -1847837386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__240
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb3f28fb2e0d64391ec19c90d33353
+      internalID: 1097603859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__241
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b73f53210872b42946854223ede3f3
+      internalID: -587057857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__242
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e82d2f0e63f3f469a77c3fd61adfca
+      internalID: 1610678020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__243
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac069ab52637f8d4ba3915e8b40b59e2
+      internalID: -620715708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__244
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7daf99cec8aae44bac1acf73fae6d48
+      internalID: 496530541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__245
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135684978e013c34095797f315ffeb16
+      internalID: 1310439900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__246
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cf02319d3d1f0408fbe3c7d51867a3
+      internalID: -483164526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507280820d69a7945a02003e177966e5
+      internalID: 962867689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__248
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c27e40d34c8c4a9c873d65a7ae4a9
+      internalID: 665316916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__249
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff10f1cd29943547ba8c73d7672932a
+      internalID: 631832105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__250
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3040689d802084c8dd02630629afa4
+      internalID: -2105397135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__251
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248c7d31a49f62947b51215b13254b3f
+      internalID: -770470006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__252
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9a868192ff836428344cdb009eac5e
+      internalID: 999761892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__253
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ef4bbb4d3bb954dbb07ccf2aa9d230
+      internalID: 1650128255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__254
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa13b6c773f37144e87532f4fa260a1c
+      internalID: -1688613395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__255
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131062efc17bd5a499c175f9ca92ee5e
+      internalID: 1427379016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__256
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfed96669a0c41a45a80477731601b6c
+      internalID: -1649948564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__257
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f2f45ad1ac1c64d8acf839ae285821
+      internalID: 1582999366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__258
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff55bae28c295846a3fb059ed01f581
+      internalID: -1477206528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__259
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4da04b6f793ca499b6d1c3b5fbda40
+      internalID: -997784550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__260
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac13e66c11fac5458136c7b04282317
+      internalID: 786430424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__261
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c1e12538e30294b964dc248f907319
+      internalID: 502770208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__262
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c0d6863ea1bc54f8a7e3f8e1b63493
+      internalID: -1601937648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__263
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea55817bbd8f694aacb643cd1b0aefb
+      internalID: 2146521128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__264
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fb111b154d58a4ab51951d83926315
+      internalID: 1152387740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__265
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86a87c8e8d75f343a621b426ebeed1c
+      internalID: -621981264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__266
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c297f81d33323324780fceab1970d56c
+      internalID: 1923105637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__267
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5906c2c0416fe3c4bbd9f3a4f7596df2
+      internalID: 2024314701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__268
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6200a6eebfedc4d85f7c7f7a1625a0
+      internalID: -464477620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__269
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7c1cc5f03601c4db234aa0ccb7c320
+      internalID: 1982852478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__270
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec531a879dfd1dd489364107a2403297
+      internalID: 1503913493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__271
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a5378347afe04492fd703ae958576
+      internalID: -1543200419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__272
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54271ba795f39234582a0f99b145c3c5
+      internalID: 735659074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__273
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d68dc5b8a47bc4c9e6f87b2df4e102
+      internalID: 135023274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__274
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002be4d38278ca74287c567da3c16502
+      internalID: 44919352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__275
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec55776904c1b4098f50d9b1d0b9b1
+      internalID: -1200769360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__276
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85819dfcc8273b4787bd47d0d6129cf
+      internalID: -390372816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__277
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16140af258dc3b741ba944ad1b943b57
+      internalID: -758382828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__278
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe06ac1f379cc4429e8387bd5b356a1
+      internalID: 505312156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__279
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01548d6354d5e5a45b284ce97432ef6e
+      internalID: 789749779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__280
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f5e2f7c7e7ca418c89ef5a4952d5a
+      internalID: 1381844418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__281
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d415ae54645277041911856199b436bb
+      internalID: -7946413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__282
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1acf1701b0bd9449ef230c23ada990
+      internalID: 1288387333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__283
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63b763e7f4e0f748b13dee370b30cc0
+      internalID: 1274719762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__284
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2469d5f75791dac4086f8b19481e726f
+      internalID: 48465155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__285
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3039f717ee85814282497652e35eec9
+      internalID: 1140292982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__286
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c01cce65f5ede345834d34e0248067b
+      internalID: 501704492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__287
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8779f8aab345b0240a1da703aaaa4cad
+      internalID: 1519372945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__288
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4598a981a8a260418b1956cf32a4db5
+      internalID: -1513126329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__289
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0231d05db85655458831e872033628f
+      internalID: 1273021116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__290
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca96adeb28a37de47b0fe5ebc42c77e0
+      internalID: -736043119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__291
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e21acd68c0c60148a45d22c87ab0251
+      internalID: 490426469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__292
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53c15b000c2b5c438a7f39026a8aec5
+      internalID: -1771513647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__293
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b128efbc6ca84cc41abea58675de4248
+      internalID: 707225155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floors_original_shading_TILESET_A5__294
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 48
+        width: 1
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e11ade89e50a7a41beaf5c0c0dc0678
+      internalID: 2108182483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Floors_original_shading_TILESET_A5__0: -1166886760
+      Floors_original_shading_TILESET_A5__1: 1209438936
+      Floors_original_shading_TILESET_A5__10: -1682548954
+      Floors_original_shading_TILESET_A5__100: -1392779912
+      Floors_original_shading_TILESET_A5__101: 1578641750
+      Floors_original_shading_TILESET_A5__102: 1736632852
+      Floors_original_shading_TILESET_A5__103: -1778752730
+      Floors_original_shading_TILESET_A5__104: -331391955
+      Floors_original_shading_TILESET_A5__105: -1409633780
+      Floors_original_shading_TILESET_A5__106: -341695422
+      Floors_original_shading_TILESET_A5__107: -224367104
+      Floors_original_shading_TILESET_A5__108: 1939117421
+      Floors_original_shading_TILESET_A5__109: 673743948
+      Floors_original_shading_TILESET_A5__11: 252006306
+      Floors_original_shading_TILESET_A5__110: 504646624
+      Floors_original_shading_TILESET_A5__111: 96324310
+      Floors_original_shading_TILESET_A5__112: 1425709116
+      Floors_original_shading_TILESET_A5__113: -547522632
+      Floors_original_shading_TILESET_A5__114: -598684012
+      Floors_original_shading_TILESET_A5__115: 2117920958
+      Floors_original_shading_TILESET_A5__116: -1856799393
+      Floors_original_shading_TILESET_A5__117: -1339419930
+      Floors_original_shading_TILESET_A5__118: 1455570600
+      Floors_original_shading_TILESET_A5__119: 1516233806
+      Floors_original_shading_TILESET_A5__12: 699204340
+      Floors_original_shading_TILESET_A5__120: 209125885
+      Floors_original_shading_TILESET_A5__121: -854256542
+      Floors_original_shading_TILESET_A5__122: 1260738703
+      Floors_original_shading_TILESET_A5__123: 313356213
+      Floors_original_shading_TILESET_A5__124: 954715117
+      Floors_original_shading_TILESET_A5__125: -429837299
+      Floors_original_shading_TILESET_A5__126: -2108408465
+      Floors_original_shading_TILESET_A5__127: 874295167
+      Floors_original_shading_TILESET_A5__128: 749461957
+      Floors_original_shading_TILESET_A5__129: -1781281622
+      Floors_original_shading_TILESET_A5__13: 2123594570
+      Floors_original_shading_TILESET_A5__130: 479456775
+      Floors_original_shading_TILESET_A5__131: -778134904
+      Floors_original_shading_TILESET_A5__132: -1112070086
+      Floors_original_shading_TILESET_A5__133: 1271265968
+      Floors_original_shading_TILESET_A5__134: -82719230
+      Floors_original_shading_TILESET_A5__135: 767335973
+      Floors_original_shading_TILESET_A5__136: 781662941
+      Floors_original_shading_TILESET_A5__137: -210126337
+      Floors_original_shading_TILESET_A5__138: -1179361949
+      Floors_original_shading_TILESET_A5__139: 1478659203
+      Floors_original_shading_TILESET_A5__14: 1638492531
+      Floors_original_shading_TILESET_A5__140: 9514020
+      Floors_original_shading_TILESET_A5__141: -616428705
+      Floors_original_shading_TILESET_A5__142: 1275038508
+      Floors_original_shading_TILESET_A5__143: -1730448897
+      Floors_original_shading_TILESET_A5__144: -1690941571
+      Floors_original_shading_TILESET_A5__145: -1548254078
+      Floors_original_shading_TILESET_A5__146: -599653117
+      Floors_original_shading_TILESET_A5__147: -1819471349
+      Floors_original_shading_TILESET_A5__148: -1138978215
+      Floors_original_shading_TILESET_A5__149: -1492916484
+      Floors_original_shading_TILESET_A5__15: 215467166
+      Floors_original_shading_TILESET_A5__150: 1475644944
+      Floors_original_shading_TILESET_A5__151: 328820433
+      Floors_original_shading_TILESET_A5__152: -1777137144
+      Floors_original_shading_TILESET_A5__153: -760341734
+      Floors_original_shading_TILESET_A5__154: 1362732002
+      Floors_original_shading_TILESET_A5__155: 629723699
+      Floors_original_shading_TILESET_A5__156: -559842688
+      Floors_original_shading_TILESET_A5__157: -312888149
+      Floors_original_shading_TILESET_A5__158: -996136171
+      Floors_original_shading_TILESET_A5__159: -1099562830
+      Floors_original_shading_TILESET_A5__16: 688195090
+      Floors_original_shading_TILESET_A5__160: -1682069268
+      Floors_original_shading_TILESET_A5__161: 1155153675
+      Floors_original_shading_TILESET_A5__162: -628642238
+      Floors_original_shading_TILESET_A5__163: 1197562646
+      Floors_original_shading_TILESET_A5__164: -1866609557
+      Floors_original_shading_TILESET_A5__165: -604814562
+      Floors_original_shading_TILESET_A5__166: -856914407
+      Floors_original_shading_TILESET_A5__167: 2110670296
+      Floors_original_shading_TILESET_A5__168: 1040278986
+      Floors_original_shading_TILESET_A5__169: 22808167
+      Floors_original_shading_TILESET_A5__17: 1129656657
+      Floors_original_shading_TILESET_A5__170: 1718627822
+      Floors_original_shading_TILESET_A5__171: 806977848
+      Floors_original_shading_TILESET_A5__172: -731180035
+      Floors_original_shading_TILESET_A5__173: 453950390
+      Floors_original_shading_TILESET_A5__174: 626368352
+      Floors_original_shading_TILESET_A5__175: 1440459790
+      Floors_original_shading_TILESET_A5__176: 1200209361
+      Floors_original_shading_TILESET_A5__177: 1239574896
+      Floors_original_shading_TILESET_A5__178: 236267378
+      Floors_original_shading_TILESET_A5__179: 69217526
+      Floors_original_shading_TILESET_A5__18: 1925238752
+      Floors_original_shading_TILESET_A5__180: 2135407459
+      Floors_original_shading_TILESET_A5__181: 2006701698
+      Floors_original_shading_TILESET_A5__182: -1987911111
+      Floors_original_shading_TILESET_A5__183: -218016170
+      Floors_original_shading_TILESET_A5__184: -725949352
+      Floors_original_shading_TILESET_A5__185: -1866772129
+      Floors_original_shading_TILESET_A5__186: -686087578
+      Floors_original_shading_TILESET_A5__187: -1146462770
+      Floors_original_shading_TILESET_A5__188: 1410246212
+      Floors_original_shading_TILESET_A5__189: 1997880327
+      Floors_original_shading_TILESET_A5__19: -1954735031
+      Floors_original_shading_TILESET_A5__190: -250266654
+      Floors_original_shading_TILESET_A5__191: -211104774
+      Floors_original_shading_TILESET_A5__192: 1647468143
+      Floors_original_shading_TILESET_A5__193: 557321325
+      Floors_original_shading_TILESET_A5__194: 1239268790
+      Floors_original_shading_TILESET_A5__195: 459298368
+      Floors_original_shading_TILESET_A5__196: -327470548
+      Floors_original_shading_TILESET_A5__197: -2052372584
+      Floors_original_shading_TILESET_A5__198: 1776631885
+      Floors_original_shading_TILESET_A5__199: -1058011987
+      Floors_original_shading_TILESET_A5__2: -1020287399
+      Floors_original_shading_TILESET_A5__20: -218810259
+      Floors_original_shading_TILESET_A5__200: 1618270378
+      Floors_original_shading_TILESET_A5__201: -1177724292
+      Floors_original_shading_TILESET_A5__202: 1828089064
+      Floors_original_shading_TILESET_A5__203: -893373498
+      Floors_original_shading_TILESET_A5__204: 1393086886
+      Floors_original_shading_TILESET_A5__205: 365633894
+      Floors_original_shading_TILESET_A5__206: -322079905
+      Floors_original_shading_TILESET_A5__207: -1853090107
+      Floors_original_shading_TILESET_A5__208: -437247495
+      Floors_original_shading_TILESET_A5__209: -1222580255
+      Floors_original_shading_TILESET_A5__21: 1151728385
+      Floors_original_shading_TILESET_A5__210: 1331009788
+      Floors_original_shading_TILESET_A5__211: 1696996184
+      Floors_original_shading_TILESET_A5__212: -471983716
+      Floors_original_shading_TILESET_A5__213: -1764076104
+      Floors_original_shading_TILESET_A5__214: 1521494807
+      Floors_original_shading_TILESET_A5__215: 2102057006
+      Floors_original_shading_TILESET_A5__216: -1521790724
+      Floors_original_shading_TILESET_A5__217: -1988610607
+      Floors_original_shading_TILESET_A5__218: 889996892
+      Floors_original_shading_TILESET_A5__219: 818584677
+      Floors_original_shading_TILESET_A5__22: -249534580
+      Floors_original_shading_TILESET_A5__220: 1275777693
+      Floors_original_shading_TILESET_A5__221: -1359564892
+      Floors_original_shading_TILESET_A5__222: -579530523
+      Floors_original_shading_TILESET_A5__223: 1036711479
+      Floors_original_shading_TILESET_A5__224: 2119819640
+      Floors_original_shading_TILESET_A5__225: 177213599
+      Floors_original_shading_TILESET_A5__226: -164920939
+      Floors_original_shading_TILESET_A5__227: 267993164
+      Floors_original_shading_TILESET_A5__228: -583390999
+      Floors_original_shading_TILESET_A5__229: -536810770
+      Floors_original_shading_TILESET_A5__23: -418444616
+      Floors_original_shading_TILESET_A5__230: 1187851363
+      Floors_original_shading_TILESET_A5__231: 1292941331
+      Floors_original_shading_TILESET_A5__232: 1577957058
+      Floors_original_shading_TILESET_A5__233: 926046865
+      Floors_original_shading_TILESET_A5__234: 1422853834
+      Floors_original_shading_TILESET_A5__235: 1147373134
+      Floors_original_shading_TILESET_A5__236: -1640522904
+      Floors_original_shading_TILESET_A5__237: -432918977
+      Floors_original_shading_TILESET_A5__238: -1371607777
+      Floors_original_shading_TILESET_A5__239: -1847837386
+      Floors_original_shading_TILESET_A5__24: 1430607036
+      Floors_original_shading_TILESET_A5__240: 1097603859
+      Floors_original_shading_TILESET_A5__241: -587057857
+      Floors_original_shading_TILESET_A5__242: 1610678020
+      Floors_original_shading_TILESET_A5__243: -620715708
+      Floors_original_shading_TILESET_A5__244: 496530541
+      Floors_original_shading_TILESET_A5__245: 1310439900
+      Floors_original_shading_TILESET_A5__246: -483164526
+      Floors_original_shading_TILESET_A5__247: 962867689
+      Floors_original_shading_TILESET_A5__248: 665316916
+      Floors_original_shading_TILESET_A5__249: 631832105
+      Floors_original_shading_TILESET_A5__25: -1295914911
+      Floors_original_shading_TILESET_A5__250: -2105397135
+      Floors_original_shading_TILESET_A5__251: -770470006
+      Floors_original_shading_TILESET_A5__252: 999761892
+      Floors_original_shading_TILESET_A5__253: 1650128255
+      Floors_original_shading_TILESET_A5__254: -1688613395
+      Floors_original_shading_TILESET_A5__255: 1427379016
+      Floors_original_shading_TILESET_A5__256: -1649948564
+      Floors_original_shading_TILESET_A5__257: 1582999366
+      Floors_original_shading_TILESET_A5__258: -1477206528
+      Floors_original_shading_TILESET_A5__259: -997784550
+      Floors_original_shading_TILESET_A5__26: 523709077
+      Floors_original_shading_TILESET_A5__260: 786430424
+      Floors_original_shading_TILESET_A5__261: 502770208
+      Floors_original_shading_TILESET_A5__262: -1601937648
+      Floors_original_shading_TILESET_A5__263: 2146521128
+      Floors_original_shading_TILESET_A5__264: 1152387740
+      Floors_original_shading_TILESET_A5__265: -621981264
+      Floors_original_shading_TILESET_A5__266: 1923105637
+      Floors_original_shading_TILESET_A5__267: 2024314701
+      Floors_original_shading_TILESET_A5__268: -464477620
+      Floors_original_shading_TILESET_A5__269: 1982852478
+      Floors_original_shading_TILESET_A5__27: -1648203355
+      Floors_original_shading_TILESET_A5__270: 1503913493
+      Floors_original_shading_TILESET_A5__271: -1543200419
+      Floors_original_shading_TILESET_A5__272: 735659074
+      Floors_original_shading_TILESET_A5__273: 135023274
+      Floors_original_shading_TILESET_A5__274: 44919352
+      Floors_original_shading_TILESET_A5__275: -1200769360
+      Floors_original_shading_TILESET_A5__276: -390372816
+      Floors_original_shading_TILESET_A5__277: -758382828
+      Floors_original_shading_TILESET_A5__278: 505312156
+      Floors_original_shading_TILESET_A5__279: 789749779
+      Floors_original_shading_TILESET_A5__28: 565023613
+      Floors_original_shading_TILESET_A5__280: 1381844418
+      Floors_original_shading_TILESET_A5__281: -7946413
+      Floors_original_shading_TILESET_A5__282: 1288387333
+      Floors_original_shading_TILESET_A5__283: 1274719762
+      Floors_original_shading_TILESET_A5__284: 48465155
+      Floors_original_shading_TILESET_A5__285: 1140292982
+      Floors_original_shading_TILESET_A5__286: 501704492
+      Floors_original_shading_TILESET_A5__287: 1519372945
+      Floors_original_shading_TILESET_A5__288: -1513126329
+      Floors_original_shading_TILESET_A5__289: 1273021116
+      Floors_original_shading_TILESET_A5__29: -1765955049
+      Floors_original_shading_TILESET_A5__290: -736043119
+      Floors_original_shading_TILESET_A5__291: 490426469
+      Floors_original_shading_TILESET_A5__292: -1771513647
+      Floors_original_shading_TILESET_A5__293: 707225155
+      Floors_original_shading_TILESET_A5__294: 2108182483
+      Floors_original_shading_TILESET_A5__3: -566632835
+      Floors_original_shading_TILESET_A5__30: -593544044
+      Floors_original_shading_TILESET_A5__31: 935246467
+      Floors_original_shading_TILESET_A5__32: 433436487
+      Floors_original_shading_TILESET_A5__33: -1686059456
+      Floors_original_shading_TILESET_A5__34: 208501430
+      Floors_original_shading_TILESET_A5__35: -721028229
+      Floors_original_shading_TILESET_A5__36: 1879155880
+      Floors_original_shading_TILESET_A5__37: -1161411508
+      Floors_original_shading_TILESET_A5__38: 1918897095
+      Floors_original_shading_TILESET_A5__39: -578090679
+      Floors_original_shading_TILESET_A5__4: 1619693338
+      Floors_original_shading_TILESET_A5__40: -490905351
+      Floors_original_shading_TILESET_A5__41: -1178909384
+      Floors_original_shading_TILESET_A5__42: -1785141023
+      Floors_original_shading_TILESET_A5__43: 1402701540
+      Floors_original_shading_TILESET_A5__44: 1630273046
+      Floors_original_shading_TILESET_A5__45: 312246817
+      Floors_original_shading_TILESET_A5__46: -1200214742
+      Floors_original_shading_TILESET_A5__47: -832045602
+      Floors_original_shading_TILESET_A5__48: 1552172829
+      Floors_original_shading_TILESET_A5__49: 1570504028
+      Floors_original_shading_TILESET_A5__5: 595057070
+      Floors_original_shading_TILESET_A5__50: -223117430
+      Floors_original_shading_TILESET_A5__51: 1827082401
+      Floors_original_shading_TILESET_A5__52: -1404775157
+      Floors_original_shading_TILESET_A5__53: -1616322724
+      Floors_original_shading_TILESET_A5__54: 1865210005
+      Floors_original_shading_TILESET_A5__55: 1540297861
+      Floors_original_shading_TILESET_A5__56: 1505454318
+      Floors_original_shading_TILESET_A5__57: 1108175706
+      Floors_original_shading_TILESET_A5__58: 1065329157
+      Floors_original_shading_TILESET_A5__59: 459640277
+      Floors_original_shading_TILESET_A5__6: 260755956
+      Floors_original_shading_TILESET_A5__60: 548996831
+      Floors_original_shading_TILESET_A5__61: -2071451323
+      Floors_original_shading_TILESET_A5__62: 2145972065
+      Floors_original_shading_TILESET_A5__63: -235524453
+      Floors_original_shading_TILESET_A5__64: 1207969118
+      Floors_original_shading_TILESET_A5__65: 1229276302
+      Floors_original_shading_TILESET_A5__66: 1276696113
+      Floors_original_shading_TILESET_A5__67: -1894466127
+      Floors_original_shading_TILESET_A5__68: -1472008321
+      Floors_original_shading_TILESET_A5__69: 1668470543
+      Floors_original_shading_TILESET_A5__7: 1292743167
+      Floors_original_shading_TILESET_A5__70: 41127999
+      Floors_original_shading_TILESET_A5__71: 1543803838
+      Floors_original_shading_TILESET_A5__72: -1484475412
+      Floors_original_shading_TILESET_A5__73: -908343820
+      Floors_original_shading_TILESET_A5__74: 1542351234
+      Floors_original_shading_TILESET_A5__75: 785982485
+      Floors_original_shading_TILESET_A5__76: 1853016253
+      Floors_original_shading_TILESET_A5__77: -704299779
+      Floors_original_shading_TILESET_A5__78: -584691949
+      Floors_original_shading_TILESET_A5__79: -1116756595
+      Floors_original_shading_TILESET_A5__8: 621276239
+      Floors_original_shading_TILESET_A5__80: 1923980400
+      Floors_original_shading_TILESET_A5__81: 219233991
+      Floors_original_shading_TILESET_A5__82: -1686314226
+      Floors_original_shading_TILESET_A5__83: -1330267309
+      Floors_original_shading_TILESET_A5__84: 1605682117
+      Floors_original_shading_TILESET_A5__85: -1350681355
+      Floors_original_shading_TILESET_A5__86: -661204177
+      Floors_original_shading_TILESET_A5__87: -393896004
+      Floors_original_shading_TILESET_A5__88: -609687954
+      Floors_original_shading_TILESET_A5__89: 1648933214
+      Floors_original_shading_TILESET_A5__9: -1230908147
+      Floors_original_shading_TILESET_A5__90: 1323558789
+      Floors_original_shading_TILESET_A5__91: 1923164109
+      Floors_original_shading_TILESET_A5__92: 1737160264
+      Floors_original_shading_TILESET_A5__93: -580220771
+      Floors_original_shading_TILESET_A5__94: -757206176
+      Floors_original_shading_TILESET_A5__95: -1004962560
+      Floors_original_shading_TILESET_A5__96: -1452350856
+      Floors_original_shading_TILESET_A5__97: 613341428
+      Floors_original_shading_TILESET_A5__98: 939718763
+      Floors_original_shading_TILESET_A5__99: 699822398
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

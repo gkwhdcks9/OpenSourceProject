@@ -6,18 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/HomeScene.unity
+    path: Assets/Scenes/Login/HomeScene.unity
     guid: 98a2044128ad09444836784c9108b4ce
   - enabled: 1
-    path: Assets/Scenes/RegisterScene.unity
+    path: Assets/Scenes/Meta/MainScene.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
   - enabled: 1
-    path: Assets/Scenes/LoginScene.unity
+    path: Assets/Scenes/Meta/OXScene.unity
+    guid: abc3fb253a6a474408fd5f5a2b8b1f78
+  - enabled: 1
+    path: Assets/Scenes/Meta/ChatbotScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Meta/Board_ArchiveScene.unity
+    guid: 5af2149ff38cbe44b8f324aae259b12b
+  - enabled: 1
+    path: Assets/Scenes/Login/FindIdScene.unity
+    guid: 6bd8d306991fe6148898fe043db79d4d
+  - enabled: 1
+    path: Assets/Scenes/Login/LoginScene.unity
     guid: 52f8b6b5b8714dd4f83e934857c1c5bc
   - enabled: 1
-    path: Assets/Scenes/FindIdScene.unity
-    guid: 6bd8d306991fe6148898fe043db79d4d
+    path: Assets/Scenes/Login/RegisterScene.unity
+    guid: c5c1a6307561c4549ac069cb6e0cedcd
   m_configObjects:
-    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 5cc198403a2f5c045bc4ab17bfa3e6fb, type: 2}
-    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 1c997e9a05de1b046bf0fc57345f272b, type: 2}
-    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: e54bf4d00f5119e4c8190388fbc88433, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7d795c8464f00ba438ef100aa21449e9, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 94d7286c486d15049b24ecd46efda759, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 0a5f1d832866edd43878714f7fbb71ac, type: 2}

@@ -1,0 +1,2037 @@
+fileFormatVersion: 2
+guid: bff7c10f99029324bab0374faf69dbe8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1527
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3143fcac49acd654aab69c692ed66ccd
+      internalID: -788386389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1512
+        width: 192
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02975fe02948a1148880071f152eb224
+      internalID: -58321845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1488
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7881b083fd3f741a122f7dbbe8d90f
+      internalID: 1914260586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1494
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9755d722b20d5954dad7352e1d94b362
+      internalID: 774613134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1539
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af992c451312564eaa4b93d13042e8c
+      internalID: 1981899379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_5
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1539
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d2c2f369ca66347a3ced4b722436aa
+      internalID: 1772861710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1494
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c8df56c586f114aa07c57891164be8
+      internalID: -1479299743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1518
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec253adafb1380f478ffd2ed4f5cf098
+      internalID: -2136565634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_8
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1518
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471e305ab584a6145b49c1ae17fb363a
+      internalID: -1787405121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1428
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300b9dfc7ad5cbd428aa669691d601ad
+      internalID: -544108157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1413
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9c645adfb75ba44ac7e518184c3048
+      internalID: -353814935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1419
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1683d55be99d4fe4ba30a011436ee2fc
+      internalID: 516810360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1422
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb5dae82267d4445bc17e9f9022bfce
+      internalID: 53443154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1419
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b0b86980f14f342a0f945ba328a4fa
+      internalID: 947439960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1419
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124f2869b0c64f40a1935f0b9e3f5b5
+      internalID: -220698049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1392
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c2b0b4c83c11b419a62dc698aede75
+      internalID: -776577159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1296
+        width: 141
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee76e4b68909ff840bbe8eb07166537b
+      internalID: -1253404455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1401
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06c1ecd4b18eee48b26db637ed2d07b
+      internalID: -305459542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1353
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bc74b255fd1eb47b317c36598bcafc
+      internalID: 1540176754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1353
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8a9dbe70d0aef488e5a757f7bd1221
+      internalID: -1881026453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1323
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7825e76c641720d4bbd5223f3b87f144
+      internalID: 735495657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1323
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda3b1ff36bb0844193719477e940695
+      internalID: 950926551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_22
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1326
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd5ffc3adfc0e241a13ffeb61a37d3c
+      internalID: -1326788302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1323
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0201b395350424d9f2d841455bfb25
+      internalID: 1275518686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1296
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ab62ae70a5f43439ec8c33ff034568
+      internalID: -1161905651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_25
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1302
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76592e58bdca70c47ac08fe91a502e56
+      internalID: 1252986810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_26
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1317
+        width: 12
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97753f492dbc7a2419db3b348334e579
+      internalID: -674810006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1305
+        width: 78
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ecac54ae9ab344a2f63f3e821dca5
+      internalID: -607143173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf6edff1e437543b35dd8b55c81441
+      internalID: 709749681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1230
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab02897137ca214499cf471ca5db24d
+      internalID: -1632222094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1206
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0419656103de4fa4e30382b07f566
+      internalID: -1718097568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1206
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97243a74bcd0ca4e8d6571dea00efca
+      internalID: 1383252245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1176
+        width: 576
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebaf506f3263d14fadb6feee73210cf
+      internalID: 429629887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296764f72ebf6d7428c416179552716e
+      internalID: 1558173755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1074
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f6bbed6db557342acdeedafa2c7501
+      internalID: 844777900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1008
+        width: 192
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b982858e98e444889750e511d5beab
+      internalID: 444920087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_36
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1008
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b879c39cc5b544db02f4b5f2e68dfb
+      internalID: 221835776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_37
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1077
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8e817b5d3b02b48aea50a1e8268e02
+      internalID: 904204865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1008
+        width: 48
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa8c284f52cf848be7da6300925ab9
+      internalID: -600854153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_39
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1038
+        width: 174
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efd29340208be04b9c0cfeef92787d6
+      internalID: 1547192790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b754104252fd6148af19ae65b5bec18
+      internalID: -1104962346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1056
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af0d4129a66ca4991d6838eb801e08
+      internalID: -602180222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 144
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe33999703d6ed644b307b5e73b23ce3
+      internalID: 146890960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 882
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef8e143053c214988ccd8f41f1a24d
+      internalID: -295245221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 882
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52753db60423d704381e50ecf6c2ec4c
+      internalID: -1864117831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_45
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 882
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e7d552b677e7045bb4d63acf310cbb
+      internalID: -368269339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 882
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e036d9c3b1c9469ce809a3164f7b8
+      internalID: 1566549198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_47
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 882
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98581fe490e6f1c438aecd0e89a1ba39
+      internalID: 719407259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 939
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ba589b80288844cb3683ebfc315bac
+      internalID: -1379929441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_49
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 960
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d250cc4132b72204d807ff7e558c4c12
+      internalID: 836832118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 144
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bdc557d92e6d04ca2658b26c85bd82
+      internalID: -654720672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 738
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c694e63aca7be43ba6a3bf13a0886f
+      internalID: -671081271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 741
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c4ce9d1fd94c440b0a11f6226b540e
+      internalID: 1027777920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_53
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 741
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882c2debf8084e3498b370c4557e9e65
+      internalID: 552487647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_54
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 825
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987843584e0d2d04d960e6980caa95bd
+      internalID: -1478254976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_55
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 834
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5827eab66cf3e314699194a6ccc73a38
+      internalID: -1000607195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_56
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 741
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b711e3e93422d374ebf840272c94b597
+      internalID: -200045304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_57
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 741
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c41d7b6ec0c8bd4fb7315335a102144
+      internalID: 1710375845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_58
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 726
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc6ab2d8c16f74478dd66aa75dcc240
+      internalID: -1431589710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_59
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 720
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98106e74ff21e6b4196a9b3dd110b50f
+      internalID: -1220316182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 144
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb5d3dfa3d42be429c0676130ebb35b
+      internalID: 186439182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 594
+        width: 42
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54949cb63e1ade440a0cd2e37676822f
+      internalID: 137913973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_62
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 594
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa3daf8524ee5d45a05794321f87b0d
+      internalID: -1379183378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 594
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a56bf01cb1f364dbbe1adc49151836
+      internalID: -1265858164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_64
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 594
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fd5faae1704c1448472989e188546e
+      internalID: 518101048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_65
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 594
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e4acec7e22e443bdf8dfcc8424554
+      internalID: -1457717071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 678
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd5999fa89a72e4097cc4a0131666fa
+      internalID: -1555937118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_67
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 675
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9040522721421814598149d823e346c2
+      internalID: -179495196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_68
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 624
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6735f92b6e2349046af02177848d03d6
+      internalID: 1685477454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba90b064dfebd14c9ebf154b16a8e22
+      internalID: 15181166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_70
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 402
+        width: 180
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9432ff958ee9e8840803c3af1a1fca37
+      internalID: 1039125956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_71
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 402
+        width: 213
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b502de9a877c56f42b9d376ae48e4dca
+      internalID: -810127941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_72
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 387
+        width: 33
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90895f9472055b64a99c44bdfcbf1c85
+      internalID: -1394989377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_73
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 387
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32961c9c60afb4a44af9033dbd4ef4d5
+      internalID: -681071602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_74
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 387
+        width: 33
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4f40bb60355cc4fb146d4e9e7beaeb
+      internalID: -88345509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5142b23db75b0240a1e22f576a50909
+      internalID: 686751860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 210
+        width: 180
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab2262145149b54e83fd9c35647d2d0
+      internalID: -337669502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 210
+        width: 213
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a75ef450e404b4fb2b5d6706ac1b17
+      internalID: 1989985913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_78
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 195
+        width: 33
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb19d90e43af6e04aa77968ad7b82336
+      internalID: 1974293181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_79
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 195
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb9e3a1249b7cb4583772ed7871b4f0
+      internalID: -309060657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_80
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 195
+        width: 33
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7ff3ca0c4552d4f9b537f69e4ded06
+      internalID: 1053506912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3494aa5a74ce2e4889ae8accfd15f95
+      internalID: -354205438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_82
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 18
+        width: 180
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66bc77079c25974cb4e50aa6dab366f
+      internalID: 1535214190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_83
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 18
+        width: 213
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedcfb8801be3914ebf87fd50f297bbf
+      internalID: -2037787803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_84
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3
+        width: 33
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab543771b5b234888a8d858fe7edf1
+      internalID: -1063101526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_85
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3
+        width: 66
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809823936e75f844baa4f80e05b8aac6
+      internalID: 982100009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5_Classroom_and_library_Black_Shadow_48x48_86
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 3
+        width: 33
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dbff28d8c09424e83e1cf4ee063e29
+      internalID: 407854877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      5_Classroom_and_library_Black_Shadow_48x48_0: -788386389
+      5_Classroom_and_library_Black_Shadow_48x48_1: -58321845
+      5_Classroom_and_library_Black_Shadow_48x48_10: -353814935
+      5_Classroom_and_library_Black_Shadow_48x48_11: 516810360
+      5_Classroom_and_library_Black_Shadow_48x48_12: 53443154
+      5_Classroom_and_library_Black_Shadow_48x48_13: 947439960
+      5_Classroom_and_library_Black_Shadow_48x48_14: -220698049
+      5_Classroom_and_library_Black_Shadow_48x48_15: -776577159
+      5_Classroom_and_library_Black_Shadow_48x48_16: -1253404455
+      5_Classroom_and_library_Black_Shadow_48x48_17: -305459542
+      5_Classroom_and_library_Black_Shadow_48x48_18: 1540176754
+      5_Classroom_and_library_Black_Shadow_48x48_19: -1881026453
+      5_Classroom_and_library_Black_Shadow_48x48_2: 1914260586
+      5_Classroom_and_library_Black_Shadow_48x48_20: 735495657
+      5_Classroom_and_library_Black_Shadow_48x48_21: 950926551
+      5_Classroom_and_library_Black_Shadow_48x48_22: -1326788302
+      5_Classroom_and_library_Black_Shadow_48x48_23: 1275518686
+      5_Classroom_and_library_Black_Shadow_48x48_24: -1161905651
+      5_Classroom_and_library_Black_Shadow_48x48_25: 1252986810
+      5_Classroom_and_library_Black_Shadow_48x48_26: -674810006
+      5_Classroom_and_library_Black_Shadow_48x48_27: -607143173
+      5_Classroom_and_library_Black_Shadow_48x48_28: 709749681
+      5_Classroom_and_library_Black_Shadow_48x48_29: -1632222094
+      5_Classroom_and_library_Black_Shadow_48x48_3: 774613134
+      5_Classroom_and_library_Black_Shadow_48x48_30: -1718097568
+      5_Classroom_and_library_Black_Shadow_48x48_31: 1383252245
+      5_Classroom_and_library_Black_Shadow_48x48_32: 429629887
+      5_Classroom_and_library_Black_Shadow_48x48_33: 1558173755
+      5_Classroom_and_library_Black_Shadow_48x48_34: 844777900
+      5_Classroom_and_library_Black_Shadow_48x48_35: 444920087
+      5_Classroom_and_library_Black_Shadow_48x48_36: 221835776
+      5_Classroom_and_library_Black_Shadow_48x48_37: 904204865
+      5_Classroom_and_library_Black_Shadow_48x48_38: -600854153
+      5_Classroom_and_library_Black_Shadow_48x48_39: 1547192790
+      5_Classroom_and_library_Black_Shadow_48x48_4: 1981899379
+      5_Classroom_and_library_Black_Shadow_48x48_40: -1104962346
+      5_Classroom_and_library_Black_Shadow_48x48_41: -602180222
+      5_Classroom_and_library_Black_Shadow_48x48_42: 146890960
+      5_Classroom_and_library_Black_Shadow_48x48_43: -295245221
+      5_Classroom_and_library_Black_Shadow_48x48_44: -1864117831
+      5_Classroom_and_library_Black_Shadow_48x48_45: -368269339
+      5_Classroom_and_library_Black_Shadow_48x48_46: 1566549198
+      5_Classroom_and_library_Black_Shadow_48x48_47: 719407259
+      5_Classroom_and_library_Black_Shadow_48x48_48: -1379929441
+      5_Classroom_and_library_Black_Shadow_48x48_49: 836832118
+      5_Classroom_and_library_Black_Shadow_48x48_5: 1772861710
+      5_Classroom_and_library_Black_Shadow_48x48_50: -654720672
+      5_Classroom_and_library_Black_Shadow_48x48_51: -671081271
+      5_Classroom_and_library_Black_Shadow_48x48_52: 1027777920
+      5_Classroom_and_library_Black_Shadow_48x48_53: 552487647
+      5_Classroom_and_library_Black_Shadow_48x48_54: -1478254976
+      5_Classroom_and_library_Black_Shadow_48x48_55: -1000607195
+      5_Classroom_and_library_Black_Shadow_48x48_56: -200045304
+      5_Classroom_and_library_Black_Shadow_48x48_57: 1710375845
+      5_Classroom_and_library_Black_Shadow_48x48_58: -1431589710
+      5_Classroom_and_library_Black_Shadow_48x48_59: -1220316182
+      5_Classroom_and_library_Black_Shadow_48x48_6: -1479299743
+      5_Classroom_and_library_Black_Shadow_48x48_60: 186439182
+      5_Classroom_and_library_Black_Shadow_48x48_61: 137913973
+      5_Classroom_and_library_Black_Shadow_48x48_62: -1379183378
+      5_Classroom_and_library_Black_Shadow_48x48_63: -1265858164
+      5_Classroom_and_library_Black_Shadow_48x48_64: 518101048
+      5_Classroom_and_library_Black_Shadow_48x48_65: -1457717071
+      5_Classroom_and_library_Black_Shadow_48x48_66: -1555937118
+      5_Classroom_and_library_Black_Shadow_48x48_67: -179495196
+      5_Classroom_and_library_Black_Shadow_48x48_68: 1685477454
+      5_Classroom_and_library_Black_Shadow_48x48_69: 15181166
+      5_Classroom_and_library_Black_Shadow_48x48_7: -2136565634
+      5_Classroom_and_library_Black_Shadow_48x48_70: 1039125956
+      5_Classroom_and_library_Black_Shadow_48x48_71: -810127941
+      5_Classroom_and_library_Black_Shadow_48x48_72: -1394989377
+      5_Classroom_and_library_Black_Shadow_48x48_73: -681071602
+      5_Classroom_and_library_Black_Shadow_48x48_74: -88345509
+      5_Classroom_and_library_Black_Shadow_48x48_75: 686751860
+      5_Classroom_and_library_Black_Shadow_48x48_76: -337669502
+      5_Classroom_and_library_Black_Shadow_48x48_77: 1989985913
+      5_Classroom_and_library_Black_Shadow_48x48_78: 1974293181
+      5_Classroom_and_library_Black_Shadow_48x48_79: -309060657
+      5_Classroom_and_library_Black_Shadow_48x48_8: -1787405121
+      5_Classroom_and_library_Black_Shadow_48x48_80: 1053506912
+      5_Classroom_and_library_Black_Shadow_48x48_81: -354205438
+      5_Classroom_and_library_Black_Shadow_48x48_82: 1535214190
+      5_Classroom_and_library_Black_Shadow_48x48_83: -2037787803
+      5_Classroom_and_library_Black_Shadow_48x48_84: -1063101526
+      5_Classroom_and_library_Black_Shadow_48x48_85: 982100009
+      5_Classroom_and_library_Black_Shadow_48x48_86: 407854877
+      5_Classroom_and_library_Black_Shadow_48x48_9: -544108157
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
