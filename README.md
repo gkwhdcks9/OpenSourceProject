@@ -68,7 +68,7 @@
 - **11/21** O/X 씬 기능 연동 시작  
 - **11/21** 주요 안건 회의  
   - 로그인/회원가입 별도 Scene 구성  
-  - DB: Spring 사용  
+  - DB: Spring 사용[김원호]  
   - 챗봇-법정 순서 변경  
   - 홈 화면 게임풍 구성(NPC와 상호작용)  
   - 법정 사건 저장 방안(박물관 Object 활용)  
@@ -97,7 +97,7 @@
 - **프론트엔드**: Unity, C#  
 - **백엔드**: Spring Framework, Flask (AI 통신)  
 - **DB**: MySQL or Firebase  
-- **AI/ML**: LLM (Multi Agent), Chatbot API
+- **AI/ML**: Chatbot API
 
 ---
 
