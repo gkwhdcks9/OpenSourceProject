@@ -33,6 +33,23 @@
 > 다른 팀원 정보는 추후 업데이트 가능합니다.
 
 ---
+## 보완할 점
+
+1. O/X 씬 당위성
+-> 화폐를 지급
+2. AI 모델 변경?
+-> GPT - 4o에서 API만
+3. 통신 보안
+-> local 서버
+
+---
+
+## 유사한 어플
+-디케이엘파트너스 법률사무소 -> 목적이 너무 세미나에 초점이 맞혀짐
+-엘박스 -> 너무 전문적이라 우리가 목표로 잡은 법의식 개선이나 접근성 측면에서 방향이 다름
+=> 그렇게 신경쓰지 않아도 될 것 같다.
+
+---
 
 ## 📅 프로젝트 진행 일정
 
@@ -55,7 +72,22 @@
 - **11/14** 주요 논제 토의 (씬 구성, DB 관리, 토큰 처리 등)  
 - **11/16** Home 씬 디자인 완료  
 - **11/18** O/X 씬 디자인 시작  
-- **11/21** O/X 씬 기능 연동 시작  
+- **11/21** O/X 씬 기능 연동 시작
+- **11/21** 주요 안건 회의
+1. 로그인씬 구성 
+2. 회원가입씬 구성
+   -> 로그인/회원가입은 따로 Scene을 만들어서
+3. DB 관리
+   -> Spring으로 구현[김원호]
+4. 기존 [챗봇 → 법정] 순서에서 [법정 → 챗봇] 순으로 변경
+5. 홈 화면 구성 (게임같이, 다른 씬들과 동작법이 같도록..)
+   -> 소울 나이트같은 게임처럼 홈화면에서 조작해서 기능담당 NPC와 상호작용
+6. 법정에서 사건들을 어떻게 저장할 것인가
+   -> 박물관에서 Object를 이용해 상호작
+7. O/X 게임의 동기 설정
+   -> 화폐를 준다
+8. 법정 개별 오브젝트 구성과 조작법 전체 구성도
+
 - **11/22** 회원가입/로그인 완료, O/X 씬 디자인 완료, 기록실·게시판 기능 연동 시작  
 - **11/23** Archive 씬 디자인 시작, DB 통합 관리 시작  
 - **11/25** Flask 통신 개발(AI) 시작, Multi Agent LLM 시작  
@@ -89,12 +121,45 @@
 
 ---
 
-## 📝 참조 문서 & 자료 (References & Resources)
+## 📝 참조한 오픈소스
 
-- **오픈소스 라이브러리**: 사용한 라이브러리, 프레임워크 링크  
-- **에셋 스토어 링크**: Top-Down 2D RPG Assets Pack, Modern exteriors - RPG Tileset 등  
-- **API 문서**: Spring/Flask API 문서, LLM API 문서 등  
-- **기타 자료**: 구현 참고한 기술 문서, 블로그 포스팅, 연구 논문 등
+- **유니티**
+- QA 프리팹 생성
+  -![image](https://github.com/user-attachments/assets/697b9af5-7b2b-46dc-95a9-4bbb5ca50c2f)
+  -![image](https://github.com/user-attachments/assets/670d7555-dbc8-4c47-8a57-854b0d3acd38)
+
+- 도메인에 맞는 Canvas
+  -![image](https://github.com/user-attachments/assets/1dd511d6-5a87-4b7f-babc-3d13833fd37d)
+
+- **에셋**
+- 씬 제작
+  -![image](https://github.com/user-attachments/assets/d93d81d9-ff63-4bb3-816b-6e8858f3bca6)
+  -![image](https://github.com/user-attachments/assets/e24f4c39-9e93-4410-8d18-c7fa6fda6dac)
+  -![image](https://github.com/user-attachments/assets/f42ce5f4-b414-4bc4-a5e1-db6bea0a7850)
+  
+- 챗봇 씬 제작
+  - ![image](https://github.com/user-attachments/assets/d1cfe801-629e-4a77-a548-0bfb410c27ea)
+
+- Font
+  -![image](https://github.com/user-attachments/assets/377db13d-3923-42e3-a0ed-f4c0c0b139b4)
+
+- Button
+  -![image](https://github.com/user-attachments/assets/f714d136-b3ac-4267-b395-42b54304c04f)
+  -![image](https://github.com/user-attachments/assets/acd97558-5477-4115-a64f-68c046829005)
+
+- **판결문 데이터 구축**
+  -![image](https://github.com/user-attachments/assets/e762fc88-626c-4229-82b4-8d1f1adc8f54)
+  -![image](https://github.com/user-attachments/assets/dca464cf-fed4-4f64-b149-beddeee92ae2)
+
+- **ChromaDB**
+  -![image](https://github.com/user-attachments/assets/6f86e298-f4db-4d2b-8fca-741fcbdaab29)
+  -![image](https://github.com/user-attachments/assets/f6a3d108-aaff-4467-86a0-fc597b15b9b1)
+
+- **통신**
+  -![image](https://github.com/user-attachments/assets/3b8e46d3-60fa-4155-927a-8d5cf5462ee7)
+  -![image](https://github.com/user-attachments/assets/3a1f9b2a-6b4f-4e0d-8bd4-da1b90cc1f12)
+  -![image](https://github.com/user-attachments/assets/1c3f5e11-efd7-4234-904e-e8806ac57915)
+  -![image](https://github.com/user-attachments/assets/fe8a50a9-8041-4afa-9a47-18c86a83fce7)
 
 ---
 
