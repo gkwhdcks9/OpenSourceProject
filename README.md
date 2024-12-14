@@ -24,10 +24,10 @@
 
 | 이름    | 역할                                   | GitHub                                              |
 |---------|----------------------------------------|-----------------------------------------------------|
-| 하종찬  | 팀장 & AI 씬 개발                      | [gkwhdcks9](https://github.com/gkwhdcks9)          |
-| 김원호  | 로그인 씬, Archive 씬, DB 관리          |                                                     |
-| 박선화  | O/X 씬, AI 통신, 데이터 정제            |                                                     |
-| 최승민  | 전체 씬 관리 & 통합                     |                                                     |
+| 하종찬  | 팀장 & AI 씬 개발                      | [gkwhdcks9](https://github.com/gkwhdcks9)            |
+| 김원호  | 로그인 씬, Archive 씬, DB 관리          | [wonotter](https://github.com/wonotter)             |                                       
+| 박선화  | O/X 씬, AI 통신, 데이터 정제            | [paksh0725](https://github.com/paksh0725)           |
+| 최승민  | 전체 씬 관리 & 통합                     | [c3110y3110](https://github.com/c3110y3110)         |
 
 > 다른 팀원 정보는 추후 업데이트 예정
 
