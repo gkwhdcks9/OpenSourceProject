@@ -22,7 +22,7 @@
 
 ## 🛠 전체 시스템 구조
 
-![전체시스템구조111111](https://github.com/user-attachments/assets/1a5369d8-3899-43c4-8d10-4d4355503876)
+![image](https://github.com/user-attachments/assets/8aec1d9c-12e7-49d4-b93a-41268e4a8237)
 
 ---
 
