@@ -198,10 +198,8 @@
 - **게시판 상세보기 화면**  
   ![게시판 상세보기 화면 이미지](https://github.com/user-attachments/assets/15c540d7-69a3-4a2a-9f18-b6a55d5f94ef)
 
-
-- **데모 영상 링크**
-    
-https://www.youtube.com/watch?v=q6m0RoN5o7s
+- **데모 영상 링크**  
+  [YouTube 바로가기](https://www.youtube.com/watch?v=q6m0RoN5o7s)
 
 ---
 
