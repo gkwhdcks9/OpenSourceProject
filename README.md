@@ -165,14 +165,15 @@
 - **회원가입 화면**  
   ![회원가입 화면 이미지](https://github.com/user-attachments/assets/92565e3b-2481-46b2-968f-4989f55c5113)
 
-- **회원가입 인증번호 발송 메일**
-  ![image](https://github.com/user-attachments/assets/824c4f0f-2a2c-4351-b7d1-e7e6723a017f)
+- **회원가입 인증번호 발송 메일**  
+  ![회원가입 인증번호 발송 메일 이미지](https://github.com/user-attachments/assets/824c4f0f-2a2c-4351-b7d1-e7e6723a017f)
 
-- **로그인 화면**
-  ![image](https://github.com/user-attachments/assets/459eb7eb-0232-4084-b83a-839fa4668293)
+- **로그인 화면**  
+  ![로그인 화면 이미지](https://github.com/user-attachments/assets/459eb7eb-0232-4084-b83a-839fa4668293)
 
-- **아이디 찾기 화면**
-  ![image](https://github.com/user-attachments/assets/5587985b-908a-44fc-a44d-84f8fcefd66c)
+- **아이디 찾기 화면**  
+  ![아이디 찾기 화면 이미지](https://github.com/user-attachments/assets/5587985b-908a-44fc-a44d-84f8fcefd66c)
+
 
 
 
