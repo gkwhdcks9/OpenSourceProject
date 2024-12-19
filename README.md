@@ -175,28 +175,28 @@
   ![아이디 찾기 화면 이미지](https://github.com/user-attachments/assets/5587985b-908a-44fc-a44d-84f8fcefd66c)
 
 - **웰컴 화면**  
-  ![image](https://github.com/user-attachments/assets/037a3686-9a8e-49b6-be76-23755804963c)
+  ![웰컴 화면 이미지](https://github.com/user-attachments/assets/037a3686-9a8e-49b6-be76-23755804963c)
 
 - **홈 화면**  
-  ![image](https://github.com/user-attachments/assets/aeeac0c3-dc55-4532-a411-d5f68ce78b9a)
+  ![홈 화면 이미지](https://github.com/user-attachments/assets/aeeac0c3-dc55-4532-a411-d5f68ce78b9a)
 
-- **O/X 게임 화면**
-  ![image](https://github.com/user-attachments/assets/88d2fe82-338b-4b7f-bc1a-32965f289162)
+- **O/X 게임 화면**  
+  ![O/X 게임 화면 이미지](https://github.com/user-attachments/assets/88d2fe82-338b-4b7f-bc1a-32965f289162)
 
-- **O/X 게임 종료 화면**
-  ![image](https://github.com/user-attachments/assets/4c039ffb-da39-4f91-b1d9-7f28457e098e)
+- **O/X 게임 종료 화면**  
+  ![O/X 게임 종료 화면 이미지](https://github.com/user-attachments/assets/4c039ffb-da39-4f91-b1d9-7f28457e098e)
 
-- **챗봇 화면**
-  ![image](https://github.com/user-attachments/assets/cd740366-e8cf-4c08-95a7-00234caf7147)
+- **챗봇 화면**  
+  ![챗봇 화면 이미지](https://github.com/user-attachments/assets/cd740366-e8cf-4c08-95a7-00234caf7147)
 
-- **아카이브 화면**
-  ![image](https://github.com/user-attachments/assets/04f8ade2-3a76-46cf-bedf-30e1ac5b36a0)
+- **아카이브 화면**  
+  ![아카이브 화면 이미지](https://github.com/user-attachments/assets/04f8ade2-3a76-46cf-bedf-30e1ac5b36a0)
 
-- **게시판 화면**
-  ![image](https://github.com/user-attachments/assets/3a695099-23b4-43b1-bbce-98b16d7c7400)
+- **게시판 화면**  
+  ![게시판 화면 이미지](https://github.com/user-attachments/assets/3a695099-23b4-43b1-bbce-98b16d7c7400)
 
-- **게시판 상세보기 화면**
-  ![image](https://github.com/user-attachments/assets/15c540d7-69a3-4a2a-9f18-b6a55d5f94ef)
+- **게시판 상세보기 화면**  
+  ![게시판 상세보기 화면 이미지](https://github.com/user-attachments/assets/15c540d7-69a3-4a2a-9f18-b6a55d5f94ef)
 
 
 
