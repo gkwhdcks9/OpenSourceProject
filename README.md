@@ -158,8 +158,14 @@
 ---
 
 ## 🎥 데모 & 스크린샷 (Demo & Screenshots)
-> 추후 GIF, 이미지, 동영상 링크 삽입 예정
+[시작 화면]
 ![image](https://github.com/user-attachments/assets/2dbf8320-a75c-4287-b859-9f6e2f00bd58)
+[회원가입 화면]
+![image](https://github.com/user-attachments/assets/92565e3b-2481-46b2-968f-4989f55c5113)
+
+
+
+
 
 ---
 
